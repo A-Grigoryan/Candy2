@@ -1,0 +1,62 @@
+[
+    {
+        "title":"'Panda' dragee 150 g",
+        "description":"Milk dragee.",
+        "weight":"Weight - 150 g.",
+        "price":"600 AMD "
+    },
+    {
+        "title":"'Squirrel' dragee 150 g",
+        "description":"Nut dragee.",
+        "weight":"Weight - 150 g.",
+        "price":"600 AMD "
+    },
+    {
+        "title":"'Bear' dragee 150 g",
+        "description":"Chocolate dragee. ",
+        "weight":"Weight - 150 g.",
+        "price":"600 AMD "
+    },
+    {
+        "title":"'Rabbit' dragee 150 g",
+        "description":"Peanut dragee.",
+        "weight":"Weight - 150 g.",
+        "price":"600 AMD "
+    },
+    {
+        "title":"'Cow' dragee 150 g",
+        "description":"Cream dragee.",
+        "weight":"Weight - 150 g.",
+        "price":"600 AMD "
+    },
+    {
+        "title":"'Matryoshka' dragee 150 g",
+        "description":"Dragee chocolate with lemon, peach, strawberry, orange and cherry flavored fruit jelly .",
+        "weight":"Weight - 150 g.",
+        "price":"600 AMD "
+    },
+    {
+        "title":"'Cipollino' lollipop with sticks",
+        "description":"Lollipop with apple, orange, lemon, cherry, cola, strawberry flavors.",
+        "weight":"Weight - 15 g.",
+        "price":"50 AMD "
+    },
+    {
+        "title":"'Sandwich' vanilla ice - cream",
+        "description":"Vanilla plombir with chocolate biscuits.",
+        "weight":"Weight - 57 g.",
+        "price":"140 AMD "
+    },
+    {
+        "title":"Balloon",
+        "description":"Balloon",
+        "weight":"Size - 14''.",
+        "price":"70 AMD "
+    },
+    {
+        "title":"Vanilla donut",
+        "description":"Donut with vanilla cream.",
+        "weight":"Weight - 78 g.",
+        "price":"110 AMD "
+    }
+]

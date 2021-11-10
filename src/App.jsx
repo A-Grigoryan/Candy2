@@ -6,12 +6,12 @@ import FotherMain from './fother/FotherMain'
 
 export default function App() {
     return (
-        <Route>
+        
         <div>
             <Header/>
             <Midel/>
             <FotherMain/>
         </div>
-        </Route>
+        
     )
 }

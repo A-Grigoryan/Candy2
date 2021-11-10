@@ -1,6 +1,5 @@
 import React from 'react'
 import "./App.css"
-import {Route} from 'react-router-dom'
 import Header from './header/Header'
 import Midel from './midel/Midel'
 import FotherMain from './fother/FotherMain'
